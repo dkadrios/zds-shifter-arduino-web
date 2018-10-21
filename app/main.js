@@ -16,7 +16,7 @@ ReactDOM.render(
     </p>
     <hr />
     <p className="downloadLink">
-      <a href="https://zendrumstudio.com/includes/anvil/anvil-firmware.zip">
+      <a href="https://zendrumstudio.com/includes/gearbox/gearbox-firmware.zip">
         <span>Download latest firmware</span>
       </a>
     </p>
